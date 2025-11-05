@@ -24,7 +24,7 @@ Le projet explore la porosité entre écriture, performance, code et solitude.
 - **Écoute.** Les passages comportent du son.  
 - **Reviens.** Il n’y a pas de “fin” unique, chaque retour transforme ta lecture.  
 
-## 💾 Contenu du dépôt
+## Contenu du dépôt
 memoire-twine/
 │
 ├── FINAL-memoire-2025.html # le mémoire interactif Twine
