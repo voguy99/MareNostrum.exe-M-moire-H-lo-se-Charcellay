@@ -14,7 +14,7 @@ Le projet explore la porosité entre écriture, performance, code et solitude.
 ## Comment jouer
 
 ### En ligne
-👉 [**Jouer au mémoire**]([https://tonpseudo.github.io/memoire-twine/](https://drive.usercontent.google.com/download?id=1dHJcoXVUtQbIn6v2m6RrAzw2pNdiqStU&export=download&authuser=0&confirm=t&uuid=b1e6cb9f-6f92-4b80-b861-f3714ea357c4&at=ALWLOp6UqgKZKeVKuVAVnmfJfoCL:1762791669462))  
+👉 [**Jouer au mémoire**](https://tonpseudo.github.io/memoire-twine/](https://drive.usercontent.google.com/download?id=1dHJcoXVUtQbIn6v2m6RrAzw2pNdiqStU&export=download&authuser=0&confirm=t&uuid=b1e6cb9f-6f92-4b80-b861-f3714ea357c4&at=ALWLOp6UqgKZKeVKuVAVnmfJfoCL:1762791669462)  
 
 ## Tutoriel du jeu
 
